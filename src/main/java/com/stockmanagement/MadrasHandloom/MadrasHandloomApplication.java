@@ -7,8 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MadrasHandloomApplication {
 
 	public static void main(String[] args) {
-                System.out.print("hello testing");
+                
 		SpringApplication.run(MadrasHandloomApplication.class, args);
+                 System.out.print("hello testing");
 	}
 
 }
